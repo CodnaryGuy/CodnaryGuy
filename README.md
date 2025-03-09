@@ -1,7 +1,7 @@
 Hi there👋 
 
-- 👀 I’m interested in Full stack Development.
-- 🌱 I’m currently learning Javascript.
+- 👀 I’m interested in Java Full stack Development.
+- 🌱 I’m currently learning Spring Boot microservices.
 - 👯‍♂️ I would love to connect with people.
 - 📫 How to reach me ... rohitbal838@gmail.com
 
